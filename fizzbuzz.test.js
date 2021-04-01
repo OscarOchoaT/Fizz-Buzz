@@ -1,5 +1,5 @@
-describe("fizzbuzz', () => {
-    test('test', () => {
+describe("fizzbuzz", () => {
+    test("test", () => {
         expect(true).toBe(true);
     })
 }
