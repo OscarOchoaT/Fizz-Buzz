@@ -1,0 +1,9 @@
+commiter.sh
+node_modules
+build
+npm-debug.log
+.npm
+.DS_Store
+.vscode-test
+.env
+.env.test
