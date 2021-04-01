@@ -17,6 +17,6 @@ function print(num) {
     }
 }
 
-print(100);
+print(30);
 
 module.exports = fizzbuzz
