@@ -20,6 +20,7 @@ describe("fizzbuzz", () => {
     });
 
     test("should print buzz if they receive 5", () => {
-        const 
+        const expected = "buzz";
+        const result = fizzbuzz(5)
     }) 
 });
