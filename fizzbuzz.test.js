@@ -1,3 +1,5 @@
 describe('fizzbuzz', () => {
-    test('test', () => )
+    test('test', () => {
+        expect
+    })
 }
