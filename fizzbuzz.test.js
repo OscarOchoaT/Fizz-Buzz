@@ -15,6 +15,7 @@ describe("fizzbuzz", () => {
 
     test("should print fizz if they receive a multiple of 3", () => {
         const expected = "fizz"
-        const result 
+        const result = fizzbuzz(6);
+        expect
     })
 });
