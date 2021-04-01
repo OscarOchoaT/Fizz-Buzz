@@ -8,6 +8,7 @@ describe("fizzbuzz", () => {
     });
 
     test('should print fizz if they recive 3', () => {
-        
+        const expected = 'fizz';
+        const result 
     })
 });
