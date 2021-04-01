@@ -1,7 +1,7 @@
 function fizzbuzz(num) {
 
     if (typeof num !== "number") {
-        console.log("Error: they arg must be a number")
+        console.log("Error: they arg must be a number");
         return null;
     }
 
