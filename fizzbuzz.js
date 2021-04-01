@@ -1,1 +1,3 @@
-function fizzbuzz(num)
+function fizzbuzz(num) {
+    return num;
+}
