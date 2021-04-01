@@ -1,6 +1,6 @@
 function fizzbuzz(num) {
 
-    const divisible = (divisor, num) => num % divisor == 0
+    const divisible = (divisor, num) => num % divisor == 0;
 
     if(num == 0) {
         return 0;
