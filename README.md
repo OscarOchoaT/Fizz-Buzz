@@ -2,7 +2,7 @@
 
  - [EN] FizzBuzz is a technical test for frontend programmer position. This test is applied in many companies when they do interviews
 
- It consists of writing a program that displays the numbers from 1 to 100 on the screen, substituting the multiples of 3 for the word "fizz", the multiples of 5 for "buzz" and the multiples of both, that is, the multiples of 3 and 5, for the word "fizzbuzz"
+   It consists of writing a program that displays the numbers from 1 to 100 on the screen, substituting the multiples of 3 for the word "fizz", the multiples of 5 for "buzz" and the multiples of both, that is, the multiples of 3 and 5, for the word "fizzbuzz"
 
 ============================================================================
 
