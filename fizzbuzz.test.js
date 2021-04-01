@@ -31,5 +31,7 @@ describe("fizzbuzz", () => {
         expect(expected).toBe(result);
     });
 
-    test("should print fizzbuzz if they receive a mu")
+    test("should print fizzbuzz if they receive a multiple of 3 and 5", () => {
+        
+    })
 });
