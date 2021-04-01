@@ -8,7 +8,7 @@ function fizzbuzz(num) {
     if(divisible(3, num) && divisible(5, num)) {
         return "fizzbuzz";
     }
-    if (divisible(3, num) {
+    if (divisible(3, num)) {
         return "fizz";
     }
     if (num % 5 == 0) {
