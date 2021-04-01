@@ -21,5 +21,5 @@ describe("fizzbuzz", () => {
 
     test("should print buzz if they receive a multiple of 5", () => {
         const 
-    })
+    }) 
 });
