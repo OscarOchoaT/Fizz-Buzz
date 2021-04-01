@@ -7,5 +7,7 @@ describe("fizzbuzz", () => {
         expect(expected).toBe(result);
     });
 
-    test
+    test('should print fizz if they recive 3', () => {
+        
+    })
 });
