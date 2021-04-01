@@ -5,7 +5,7 @@ describe("fizzbuzz", () => {
         const expected = "Error: they arg must be a number";
         const result = fizzbuzz("31");
         expect(expected).toBe(result);
-    })
+    });
 
     test("should print 1 if they receive 1", () => {
         const expected = 1;
