@@ -1,7 +1,7 @@
 function fizzbuzz(num) {
 
     if (typeof num !== "number") {
-        console.log()
+        console.log("Error")
     }
 
     const divisible = (divisor, num) => num % divisor == 0;
