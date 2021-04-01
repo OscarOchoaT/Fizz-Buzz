@@ -6,6 +6,7 @@ describe("fizzbuzz", () => {
         const result = fizzbuzz("31");
         expect(expected).toBe(result);
     })
+
     test("should print 1 if they receive 1", () => {
         const expected = 1;
         const result = fizzbuzz(1)
