@@ -17,6 +17,6 @@ function print(num) {
     }
 }
 
-print(16)
+print(16);
 
 module.exports = fizzbuzz
