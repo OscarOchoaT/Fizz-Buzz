@@ -1,1 +1,1 @@
-function fizzbuzz 
+function fizzbuzz(num)
