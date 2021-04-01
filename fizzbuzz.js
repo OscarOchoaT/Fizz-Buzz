@@ -11,4 +11,6 @@ function fizzbuzz(num) {
     return num;
 }
 
+function print(num)
+
 module.exports = fizzbuzz
