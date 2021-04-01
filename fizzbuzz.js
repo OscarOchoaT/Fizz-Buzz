@@ -5,7 +5,7 @@ function fizzbuzz(num) {
     if(num == 0) {
         return 0;
     }
-    if(divisible) {
+    if(divisible(3, num) && divisible(5, num)) {
         return "fizzbuzz";
     }
     if (num % 3 == 0) {
