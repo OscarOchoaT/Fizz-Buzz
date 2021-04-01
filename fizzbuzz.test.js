@@ -27,7 +27,7 @@ describe("fizzbuzz", () => {
 
     test("should print buzz if they receive a multiple 5", () => {
         const expected = "buzz";
-        const result = fizzbuzz(5);
+        const result = fizzbuzz(10);
         expect(expected).toBe(result);
     });
 });
