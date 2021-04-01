@@ -8,8 +8,8 @@ describe("fizzbuzz", () => {
     });
 
     test('should print fizz if they recive 3', () => {
-        const expected = 'fizz';
+        const expected = "fizz";
         const result = fizzbuzz(3);
         expect(expected).toBe(result);
-    })
+    });
 });
