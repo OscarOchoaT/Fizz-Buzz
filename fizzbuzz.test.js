@@ -1,2 +1,2 @@
 describe("fizzbuzz", () => {
-    test('should print')
+    test('should print 1 if they recive 1')
