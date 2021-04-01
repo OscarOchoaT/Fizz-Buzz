@@ -30,4 +30,6 @@ describe("fizzbuzz", () => {
         const result = fizzbuzz(10);
         expect(expected).toBe(result);
     });
+
+    test("should print fizzbuzz if they receive a mu")
 });
