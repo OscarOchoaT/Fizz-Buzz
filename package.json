@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NulledCodeDev/Fizz-Buzz/issues"
   },
-  "homepage": "https://github.com/NulledCodeDev/Fizz-Buzz#readme"
+  "homepage": "https://github.com/NulledCodeDev/Fizz-Buzz#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
