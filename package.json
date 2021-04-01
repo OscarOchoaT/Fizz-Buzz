@@ -1,0 +1,20 @@
+{
+  "name": "Fizz-Buzz",
+  "version": "1.0.0",
+  "description": "- [EN] FizzBuzz is a technical test for frontend programmer position. This test is applied in many companies when they do interviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NulledCodeDev/Fizz-Buzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NulledCodeDev/Fizz-Buzz/issues"
+  },
+  "homepage": "https://github.com/NulledCodeDev/Fizz-Buzz#readme"
+}
