@@ -2,7 +2,7 @@ const fizzbuzz = require('./fizzbuzz');
 
 describe("fizzbuzz", () => {
     test("should print and error message if the arg is not a number", () => {
-        const expect = "Error: they arg must be a number";
+        const expected = "Error: they arg must be a number";
         const result = fizzbuzz("31");
         expect(expect).toBe(result);
     })
