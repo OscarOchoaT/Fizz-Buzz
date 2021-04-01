@@ -1,2 +1,2 @@
 describe("fizzbuzz", () => {
-    test(
+    test('should print')
