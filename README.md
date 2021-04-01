@@ -4,6 +4,8 @@
 
    It consists of writing a program that displays the numbers from 1 to 100 on the screen, substituting the multiples of 3 for the word "fizz", the multiples of 5 for "buzz" and the multiples of both, that is, the multiples of 3 and 5, for the word "fizzbuzz"
 
+   Includes Test with jest framework
+
 ============================================================================
 
  - [ES] FizzBuzz es una prueba técnica para la posición de programador frontend. Esta prueba se aplica en muchas    empresas cuando hacen entrevistas.
