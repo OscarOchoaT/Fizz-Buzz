@@ -22,6 +22,6 @@ describe("fizzbuzz", () => {
     test("should print buzz if they receive 5", () => {
         const expected = "buzz";
         const result = fizzbuzz(5);
-        expect(expected).toBe(result)
-    }) 
+        expect(expected).toBe(result);
+    });
 });
