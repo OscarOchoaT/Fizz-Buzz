@@ -11,6 +11,8 @@ function fizzbuzz(num) {
     return num;
 }
 
-function print(num)
+function print(num) {
+    for(let i=0; i< num)
+}
 
 module.exports = fizzbuzz
