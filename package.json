@@ -4,7 +4,7 @@
   "description": "- [EN] FizzBuzz is a technical test for frontend programmer position. This test is applied in many companies when they do interviews",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
