@@ -12,7 +12,7 @@ function fizzbuzz(num) {
 }
 
 function print(num) {
-    for(let i=0; i<)
+    for(let i=0; i < num )
 }
 
 module.exports = fizzbuzz
