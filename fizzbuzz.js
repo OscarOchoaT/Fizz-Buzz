@@ -1,1 +1,1 @@
-function fizz
+function fizzbuzz 
