@@ -18,4 +18,6 @@ describe("fizzbuzz", () => {
         const result = fizzbuzz(6);
         expect(expected).toBe(result);
     });
+
+    test("should print buzz")
 });
