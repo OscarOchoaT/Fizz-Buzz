@@ -24,4 +24,6 @@ describe("fizzbuzz", () => {
         const result = fizzbuzz(5);
         expect(expected).toBe(result);
     });
+
+    test
 });
