@@ -24,3 +24,4 @@ NPM Commands:
 Run FizzBuzz
 
 - node fizzbuzz
+- node .
